@@ -1,29 +1,44 @@
-# Snowman ASCII Art stages
 STAGES = [
-     # Stage 0: Full snowman
-     """
+    # Stage 0: Full snowman, happy
+    """
       ___  
      /___\\ 
-     (o o) 
+     (^.^) 
      ( : ) 
      ( : ) 
-     """,
-     # Stage 1: Bottom part starts melting
-     """
+    """,
+    # Stage 1: Slightly worried
+    """
       ___  
      /___\\ 
-     (o o) 
+     (o.o) 
      ( : ) 
-     """,
-     # Stage 2: Only the head remains
-     """
+     ( . ) 
+    """,
+    # Stage 2: Uneasy / surprised
+    """
       ___  
      /___\\ 
-     (o o) 
-     """,
-     # Stage 3: Snowman completely melted
-     """
+     (-.-') 
+     ( :  ) 
+    """,
+    # Stage 3: Mouth fading
+    """
       ___  
      /___\\ 
-     """
- ]
+     (v.v) 
+      :     
+    """,
+    # Stage 4: Eyes drooping
+    """
+      ___  
+     /___\\ 
+     (x x) 
+
+    """,
+    # Stage 5: Gone
+    """
+      ___  
+     /___\\ 
+    """
+]
